@@ -1,4 +1,4 @@
-北京邮电大学新网关认证快速登录Alfred Workflow，支持[新网关](http://ngw.bupt.edu.cn/login)的登录，支持自输入校园网账号和密码，支持自定义默认登录线路。
+北京邮电大学新网关认证快速登录Alfred Workflow，支持[新网关](http://ngw.bupt.edu.cn/login)的登录，自输入校园网账号和密码后，可选择默认登录线路。
 
 ## 安装方法
 单击BuptFastLogin.alfredworkflow即可在Alfred中安装该工作流。Alfred下载见[官网地址](https://www.alfredapp.com)
